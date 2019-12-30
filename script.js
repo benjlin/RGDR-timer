@@ -1,5 +1,3 @@
-console.log("Script Ran");
-
 var timedisplay = document.getElementById("timer");
 
 var BensTime = document.getElementById("BensTime");
